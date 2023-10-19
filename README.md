@@ -16,6 +16,10 @@ In addition, this project will include:
 - A production README
 - Social media links
 
+## Wireframe 
+
+![wireframe](https://wireframe.cc/dHKoTK)
+
 ## Technology Stack
 
 This project will be implemented with the following technologies:
