@@ -2,7 +2,7 @@
 
 Welcome to miKitchen! This is a unique and engaging data visualization project that allows users to explore and interact with a 2D representation of a kitchen. In this interactive kitchen, users can click on different parts of the kitchen, and each piece of furniture or appliance serves a specific function or provides valuable information. Whether you're a cooking enthusiast, a nutrition-conscious individual, or simply curious, this project is designed to offer a fun and informative experience. The primary purpose of this project is to create an interactive kitchen environment that not only engages users but also educates them about cooking, nutrition, and the relationship between ingredients and recipes. By allowing users to interact with various kitchen elements, the project aims to provide an immersive learning experience that combines practical kitchen tasks with informative data visualization.
 
-##Key Features
+## Key Features
 
 	In miKitchen, users will be able to 
 
@@ -17,7 +17,7 @@ In addition, this project will include:
 
 
 
-##Technology Stack
+## Technology Stack
 
 This project will be implemented with the following technologies:
 JavaScript: The core language used to implement the interactive functionality.
@@ -56,7 +56,7 @@ Wednesday (Day 7): Final Styling and Testing
     * Perform thorough testing, including testing the recipe refinement and data visualization features, and address any last-minute issues.
 
 
-##Bonus Features
+## Bonus Features
 
 In addition to the core functionality of the interactive miKitchen, project updates might include:
 
