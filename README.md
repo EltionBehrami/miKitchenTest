@@ -18,7 +18,7 @@ In addition, this project will include:
 
 ## Wireframe 
 
-![wireframe](https://www.dropbox.com/scl/fi/iwplgaes7qtq4ewhhsj9t/Screenshot-2023-10-18-at-11.15.32-PM.png?rlkey=bq7mkp840fulnbscrl6rnyx1i&dl=0)
+![plot](./wireframe.png)
 
 ## Technology Stack
 
