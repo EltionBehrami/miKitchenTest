@@ -18,7 +18,7 @@ In addition, this project will include:
 
 ## Wireframe 
 
-![plot](./wireframe.png)
+![wireframe](./wireframe.png)
 
 ## Technology Stack
 
